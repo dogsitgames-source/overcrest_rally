@@ -1,0 +1,39 @@
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# User settings
+UserSettings/
+*.user
+*.csproj
+*.sln
+*.suo
+*.tmp
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.opendb
+*.VC.db
+
+# Unity cache
+*.unitypackage
+
+# OS generated
+.DS_Store
+Thumbs.db
+
+# Git LFS tracked files
+*.fbx
+*.png
+*.jpg
+*.jpeg
+*.wav
+*.mp3
+*.mp4
+*.ttf
+*.otf
