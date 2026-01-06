@@ -27,13 +27,4 @@ UserSettings/
 .DS_Store
 Thumbs.db
 
-# Git LFS tracked files
-*.fbx
-*.png
-*.jpg
-*.jpeg
-*.wav
-*.mp3
-*.mp4
-*.ttf
-*.otf
+
