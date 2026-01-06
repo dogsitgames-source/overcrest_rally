@@ -19,6 +19,8 @@ UserSettings/
 *.pdb
 *.opendb
 *.VC.db
+.vs/
+.idea/
 
 # Unity cache
 *.unitypackage
