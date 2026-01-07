@@ -27,4 +27,10 @@ UserSettings/
 .DS_Store
 Thumbs.db
 
+# NWH demo / docs (não versionar)
+Assets/ThirdParty/NWH/**/__Scenes/
+Assets/ThirdParty/NWH/**/Demo/
+Assets/ThirdParty/NWH/**/DemoContent/
+Assets/ThirdParty/NWH/**/_Documentation/
+Assets/ThirdParty/NWH/**/Documentation.zip
 
