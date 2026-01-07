@@ -172,5 +172,5 @@ AssetOrigin:
   productId: 166252
   packageName: NWH Vehicle Physics 2
   packageVersion: 13.6
-  assetPath: Assets/NWH/Common/Textures/Ground/IceNormal.png
+  assetPath: Assets/ThirdParty/NWH/Common/Textures/Ground/IceNormal.png
   uploadId: 762324

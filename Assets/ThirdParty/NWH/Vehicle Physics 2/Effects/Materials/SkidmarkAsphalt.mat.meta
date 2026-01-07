@@ -12,5 +12,5 @@ AssetOrigin:
   productId: 166252
   packageName: NWH Vehicle Physics 2
   packageVersion: 13.6
-  assetPath: Assets/NWH/Vehicle Physics 2/Effects/Materials/SkidmarkAsphalt.mat
+  assetPath: Assets/ThirdParty/NWH/Vehicle Physics 2/Effects/Materials/SkidmarkAsphalt.mat
   uploadId: 762324

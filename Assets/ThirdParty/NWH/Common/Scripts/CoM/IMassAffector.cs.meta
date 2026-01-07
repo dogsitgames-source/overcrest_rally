@@ -6,5 +6,5 @@ AssetOrigin:
   productId: 166252
   packageName: NWH Vehicle Physics 2
   packageVersion: 13.6
-  assetPath: Assets/NWH/Common/Scripts/CoM/IMassAffector.cs
+  assetPath: Assets/ThirdParty/NWH/Common/Scripts/CoM/IMassAffector.cs
   uploadId: 762324

@@ -10,5 +10,5 @@ AssetOrigin:
   productId: 166252
   packageName: NWH Vehicle Physics 2
   packageVersion: 13.6
-  assetPath: Assets/NWH/Common/Prefabs/Vehicle Camera Cinemachine.prefab
+  assetPath: Assets/ThirdParty/NWH/Common/Prefabs/Vehicle Camera Cinemachine.prefab
   uploadId: 762324

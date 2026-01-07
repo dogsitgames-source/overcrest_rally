@@ -11,5 +11,5 @@ AssetOrigin:
   productId: 166252
   packageName: NWH Vehicle Physics 2
   packageVersion: 13.6
-  assetPath: Assets/NWH/Common/PostProcessing/NWHPostProcessProfile Linear.asset
+  assetPath: Assets/ThirdParty/NWH/Common/PostProcessing/NWHPostProcessProfile Linear.asset
   uploadId: 762324
