@@ -19,6 +19,14 @@ UserSettings/
 *.pdb
 *.opendb
 *.VC.db
+.gradle/
+.cmake/
+.ninja_*
+*.apk
+*.aab
+*.so
+*.log
+*.json
 
 # Unity cache
 *.unitypackage
@@ -27,4 +35,10 @@ UserSettings/
 .DS_Store
 Thumbs.db
 
+# NWH
+Assets/ThirdParty/NWH/**/__Scenes/
+Assets/ThirdParty/NWH/**/Demo/
+Assets/ThirdParty/NWH/**/DemoContent/
+Assets/ThirdParty/NWH/**/_Documentation/
+Assets/ThirdParty/NWH/**/Documentation.zip
 
