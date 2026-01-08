@@ -19,6 +19,14 @@ UserSettings/
 *.pdb
 *.opendb
 *.VC.db
+.gradle/
+.cmake/
+.ninja_*
+*.apk
+*.aab
+*.so
+*.log
+*.json
 
 # Unity cache
 *.unitypackage
